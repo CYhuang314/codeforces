@@ -54,3 +54,4 @@ check:
 3.special case(0 or 1)
 4.time complexity
 */
+ 
