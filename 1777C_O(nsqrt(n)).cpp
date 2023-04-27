@@ -48,7 +48,7 @@ int main(){
 	return 0;
 }
 /*
-check:
+check: 
 1.int overflow
 2.array out of bound
 3.special case(0 or 1)
